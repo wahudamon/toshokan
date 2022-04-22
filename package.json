@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Experimental component library built using React and Typescript",
   "scripts": {
-    "rollup": "rollup -c"
+    "build": "rollup -c"
   },
   "repository": {
     "type": "git",
